@@ -1,0 +1,21 @@
+{
+  "name": "graphQL",
+  "version": "1.0.0",
+  "description": "GraphQL （Graph Query Language，字面意思是图表化查询语言） 既是一种用于 API 的查询语言也是一个满足你数据查询的运行时。",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server-koa": "^2.9.6",
+    "koa": "^2.10.0",
+    "koa-body": "^4.1.1",
+    "koa2-cors": "^2.0.6"
+  },
+  "devDependencies": {
+    "mockjs": "^1.0.1-beta3"
+  }
+}
