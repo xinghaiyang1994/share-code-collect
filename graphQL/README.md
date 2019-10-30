@@ -5,6 +5,8 @@ GraphQL 是 Facebook 于 2012 年在内部开发的数据查询语言，在 2015
 
 GraphQL 支持多种语言：Nodejs、Java、PHP、Go、Python 等
 
+本文演示代码及文档：https://github.com/xinghaiyang1994/share-code-collect/tree/master/graphQL
+
 ## RESTful 架构简介
 RESTful架构主要特点：
 * 每一个 URI 代表一种资源  
